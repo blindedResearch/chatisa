@@ -150,7 +150,7 @@ Compare AI model responses side-by-side with minimal system prompts. Native supp
    ```
 
 3. **Access Application**
-   - Production URL: `https://chatisa.fsb.miamioh.edu`
+   - Production URL: `https://chatisa.osc.edu`
    - Auto-starts on server boot
    - Runs on port 443 with SSL
 
