@@ -1,0 +1,616 @@
+[
+  {
+    "timestamp": "2025-08-19T18:17:15.887253+00:00",
+    "session_id": "251bd5c3-ac00-40b4-8d90-8bd947fdf74e",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "3.1.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T18:18:25.555280+00:00",
+    "session_id": "251bd5c3-ac00-40b4-8d90-8bd947fdf74e",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "3.1.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T18:18:27.620780+00:00",
+    "session_id": "251bd5c3-ac00-40b4-8d90-8bd947fdf74e",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "3.1.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T18:18:34.300185+00:00",
+    "session_id": "251bd5c3-ac00-40b4-8d90-8bd947fdf74e",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "3.1.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T18:25:37.225775+00:00",
+    "session_id": "e5397c00-def3-4268-8076-5e7f0266e827",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.0.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T21:03:18.687056+00:00",
+    "session_id": "9242c425-b816-44dd-8ee9-2880fbc29522",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.0.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T21:03:25.228944+00:00",
+    "session_id": "9242c425-b816-44dd-8ee9-2880fbc29522",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.0.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T21:08:33.234872+00:00",
+    "session_id": "609ad2de-f504-4683-b9b8-93fbe55b55e5",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.0.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T21:08:37.981378+00:00",
+    "session_id": "609ad2de-f504-4683-b9b8-93fbe55b55e5",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.0.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T21:08:39.655436+00:00",
+    "session_id": "609ad2de-f504-4683-b9b8-93fbe55b55e5",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.0.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T21:21:44.235386+00:00",
+    "session_id": "5a1c864b-dec4-416d-b0ca-8c92236273ba",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.0.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T21:21:53.476378+00:00",
+    "session_id": "5a1c864b-dec4-416d-b0ca-8c92236273ba",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.0.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T21:56:59.467787+00:00",
+    "session_id": "b71edb0b-3ce1-4400-a0d8-f81a2d5d61c7",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.0.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T22:16:16.468181+00:00",
+    "session_id": "aec57c64-8920-4053-b2e2-53cf634f9906",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.0.0",
+      "available_models": 7,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-19T22:18:30.510540+00:00",
+    "session_id": "082eb211-4c73-46b0-889a-794ebe7fae38",
+    "activity_type": "ai_generation",
+    "page": "interview_mentor",
+    "data": {
+      "prompt_length": 24,
+      "response_length": 384,
+      "exported_to_pdf": false,
+      "course_provided": false,
+      "academic_level": null,
+      "major": null,
+      "temperature": 0.25,
+      "max_tokens": 6000
+    },
+    "model_used": "gpt-5-chat-latest",
+    "tokens": {
+      "input": 1230,
+      "output": 82,
+      "total": 1312
+    },
+    "cost": 0.002358,
+    "performance": {
+      "response_time_ms": 1353.3987998962402
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:19:20.900219+00:00",
+    "session_id": "1e7c9709-02f8-409d-b69b-55117ffad682",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:19:28.728137+00:00",
+    "session_id": "1e7c9709-02f8-409d-b69b-55117ffad682",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:20:28.736767+00:00",
+    "session_id": "1e7c9709-02f8-409d-b69b-55117ffad682",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:20:34.502797+00:00",
+    "session_id": "1e7c9709-02f8-409d-b69b-55117ffad682",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:24:30.674272+00:00",
+    "session_id": "1e7c9709-02f8-409d-b69b-55117ffad682",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:24:33.343908+00:00",
+    "session_id": "1e7c9709-02f8-409d-b69b-55117ffad682",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:25:44.508811+00:00",
+    "session_id": "1e7c9709-02f8-409d-b69b-55117ffad682",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:25:46.226174+00:00",
+    "session_id": "1e7c9709-02f8-409d-b69b-55117ffad682",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:28:26.123126+00:00",
+    "session_id": "1f773ec3-be0c-4b61-9b05-2f18dc9b1ffe",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:28:48.158394+00:00",
+    "session_id": "9824c14b-5002-4c15-8d63-46d0b9358591",
+    "activity_type": "model_change",
+    "page": "coding_companion",
+    "data": {
+      "new_model": "llama-3.3-70b-versatile",
+      "previous_model": "claude-sonnet-4-20250514"
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:32:26.763821+00:00",
+    "session_id": "25865e7e-d1f0-492c-aec5-bbf8456d5dc4",
+    "activity_type": "model_change",
+    "page": "coding_companion",
+    "data": {
+      "new_model": "llama-3.3-70b-versatile",
+      "previous_model": "claude-sonnet-4-20250514"
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:32:29.526979+00:00",
+    "session_id": "25865e7e-d1f0-492c-aec5-bbf8456d5dc4",
+    "activity_type": "ai_generation",
+    "page": "coding_companion",
+    "data": {
+      "prompt_length": 2,
+      "response_length": 332,
+      "exported_to_pdf": false,
+      "course_provided": false,
+      "academic_level": null,
+      "major": null,
+      "temperature": 0,
+      "max_tokens": 1000
+    },
+    "model_used": "llama-3.3-70b-versatile",
+    "tokens": {
+      "input": 334,
+      "output": 67,
+      "total": 401
+    },
+    "cost": 0.00025,
+    "performance": {
+      "response_time_ms": 568.8033103942871
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:32:38.517313+00:00",
+    "session_id": "25865e7e-d1f0-492c-aec5-bbf8456d5dc4",
+    "activity_type": "model_change",
+    "page": "coding_companion",
+    "data": {
+      "new_model": "openai/gpt-oss-120b",
+      "previous_model": "llama-3.3-70b-versatile"
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:32:42.400866+00:00",
+    "session_id": "25865e7e-d1f0-492c-aec5-bbf8456d5dc4",
+    "activity_type": "ai_generation",
+    "page": "coding_companion",
+    "data": {
+      "prompt_length": 5,
+      "response_length": 322,
+      "exported_to_pdf": false,
+      "course_provided": false,
+      "academic_level": null,
+      "major": null,
+      "temperature": 0,
+      "max_tokens": 1000
+    },
+    "model_used": "openai/gpt-oss-120b",
+    "tokens": {
+      "input": 436,
+      "output": 132,
+      "total": 568
+    },
+    "performance": {
+      "response_time_ms": 1381.436824798584
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:32:53.365109+00:00",
+    "session_id": "25865e7e-d1f0-492c-aec5-bbf8456d5dc4",
+    "activity_type": "ai_generation",
+    "page": "coding_companion",
+    "data": {
+      "prompt_length": 18,
+      "response_length": 316,
+      "exported_to_pdf": false,
+      "course_provided": false,
+      "academic_level": null,
+      "major": null,
+      "temperature": 0,
+      "max_tokens": 1000
+    },
+    "model_used": "openai/gpt-oss-120b",
+    "tokens": {
+      "input": 526,
+      "output": 118,
+      "total": 644
+    },
+    "performance": {
+      "response_time_ms": 973.4621047973633
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:35:30.107387+00:00",
+    "session_id": "37cc1dd9-bc56-401c-b69b-9b07b7708397",
+    "activity_type": "ai_generation",
+    "page": "ai_comparisons",
+    "data": {
+      "prompt_length": 1000,
+      "response_length": 1126,
+      "exported_to_pdf": false,
+      "course_provided": false,
+      "academic_level": null,
+      "major": null,
+      "temperature": 0.3,
+      "max_tokens": 2000
+    },
+    "model_used": "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+    "tokens": {
+      "input": 1022,
+      "output": 230,
+      "total": 1252
+    },
+    "performance": {
+      "response_time_ms": 3643.601179122925
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:36:55.940897+00:00",
+    "session_id": "f9e5a4a4-ddbf-4627-847a-4a37c9b96e30",
+    "activity_type": "ai_generation",
+    "page": "ai_comparisons",
+    "data": {
+      "prompt_length": 1000,
+      "response_length": 2240,
+      "exported_to_pdf": false,
+      "course_provided": false,
+      "academic_level": null,
+      "major": null,
+      "temperature": 0.3,
+      "max_tokens": 2000
+    },
+    "model_used": "Qwen/Qwen2.5-VL-32B-Instruct",
+    "tokens": {
+      "input": 491,
+      "output": 410,
+      "total": 901
+    },
+    "performance": {
+      "response_time_ms": 12653.288125991821
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:37:00.183045+00:00",
+    "session_id": "f9e5a4a4-ddbf-4627-847a-4a37c9b96e30",
+    "activity_type": "ai_generation",
+    "page": "ai_comparisons",
+    "data": {
+      "prompt_length": 1000,
+      "response_length": 1223,
+      "exported_to_pdf": false,
+      "course_provided": false,
+      "academic_level": null,
+      "major": null,
+      "temperature": 0.3,
+      "max_tokens": 2000
+    },
+    "model_used": "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+    "tokens": {
+      "input": 1025,
+      "output": 254,
+      "total": 1279
+    },
+    "performance": {
+      "response_time_ms": 3973.691463470459
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:45:09.479604+00:00",
+    "session_id": "27812b0e-a644-4d51-a0be-85778404ca94",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T00:45:16.818230+00:00",
+    "session_id": "27812b0e-a644-4d51-a0be-85778404ca94",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:13:53.326290+00:00",
+    "session_id": "b25a1a82-4d2d-4bdc-a0d8-bee7531a02d9",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:20:41.799806+00:00",
+    "session_id": "b25a1a82-4d2d-4bdc-a0d8-bee7531a02d9",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:20:45.937766+00:00",
+    "session_id": "49251ce8-c2c3-4cbd-94ff-491c7234784d",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:21:01.662556+00:00",
+    "session_id": "cfa84396-67b2-4e42-8f8f-5f0a5f229685",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:21:09.456536+00:00",
+    "session_id": "cfa84396-67b2-4e42-8f8f-5f0a5f229685",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:21:46.566425+00:00",
+    "session_id": "cfa84396-67b2-4e42-8f8f-5f0a5f229685",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:21:49.186951+00:00",
+    "session_id": "cfa84396-67b2-4e42-8f8f-5f0a5f229685",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:21:50.959681+00:00",
+    "session_id": "cfa84396-67b2-4e42-8f8f-5f0a5f229685",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:21:51.910265+00:00",
+    "session_id": "cfa84396-67b2-4e42-8f8f-5f0a5f229685",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:22:11.447897+00:00",
+    "session_id": "b325c5b9-cfa0-4207-a86a-dae6b9514d06",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:23:27.946539+00:00",
+    "session_id": "b325c5b9-cfa0-4207-a86a-dae6b9514d06",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:26:52.728606+00:00",
+    "session_id": "27414cc7-1d4b-4971-80fc-aaa7f811d052",
+    "activity_type": "page_visit",
+    "page": "home",
+    "data": {
+      "version": "4.3.0",
+      "available_models": 16,
+      "features_enabled": 4
+    }
+  }
+]
