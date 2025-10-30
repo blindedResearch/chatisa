@@ -227,15 +227,15 @@ chatisa/
 
 ## 🏢 Institutional Support
 
-**Maintained by Miami University - Farmer School of Business**
+**Maintained by Ohio Supercomputer Center**
 
 - **[Fadel Megahed](https://miamioh.edu/fsb/directory/?up=/directory/megahefm)** - Raymond E. Glos Professor, Information Systems & Analytics
 - **[Joshua Ferris](https://miamioh.edu/fsb/directory/?up=/directory/ferrisj2)** - Assistant Professor, Information Systems & Analytics
 
 **Funding Support:**
 - U.S. Bank covering API costs for educational use
-- Miami University providing server infrastructure and support  
-- The Raymond E. Glos Professorship, which provided Fadel time and monetary support to continue to update and mantain this chatbot
+- Ohio Supercomputer Center providing server infrastructure and support  
+- The Raymond E. Glos Professorship, which provided Fadel time and monetary support to continue to update and maintain this chatbot
 
 ---
 
